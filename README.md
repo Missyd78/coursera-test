@@ -1,4 +1,14 @@
 ## Welcome to GitHub Pages
+<!doctype html>
+<html>
+<head>
+ <meta charset="utf-8"
+ <title> Coursera is cool!</title>
+</head>
+<body>
+Coursera is so cool! I am learning so much!
+</body>
+</html>
 
 You can use the [editor on GitHub](https://github.com/Missyd78/coursera-test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
